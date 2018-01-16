@@ -88,5 +88,5 @@ $GoogleMap->show();
     <div id="dvMap" style="width: 300px; height: 400px">
     </div>
     <script async defer            
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnpR6gXxxDRnsHbOeTE_d6o2e4vQkAy7s&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=API_KEY&callback=initMap">
     </script>
